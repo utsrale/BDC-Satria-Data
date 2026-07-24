@@ -1,0 +1,31 @@
+# Dataset
+BDC2026/
+BDC2026.zip
+
+# Personal Files
+*.docx
+*.pdf
+*.jpeg
+*.jpg
+*.png
+
+# Model checkpoints and weights
+models/
+*.pth
+*.onnx
+
+# Outputs and logs
+outputs/
+*.txt
+*.log
+*.csv
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+.pytest_cache/
+.vscode/
+.idea/
